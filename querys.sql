@@ -12,4 +12,4 @@ select adds,bike_model from extra,bikes where extra.adds='Padlock';
 
 SELECT concat(nombre,' ',surname,'--> ',village) NAME_SURNAME_VILLAGE from bookings where age<24;
 
-
+SELECT concat(nombre,' ',surname,'--> ',village) NAME_SURNAME_VILLAGE from bookings where age<24 and village='Inca';
