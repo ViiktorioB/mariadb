@@ -3,7 +3,7 @@ insert into places values('2','Manacor','7250','C/Manacor');
 insert into places values('3','Inca','7912','C/Inca');
 
 insert into bikes values('1', 'Orbea mtb' ,'1' ,'1');
-insert into bikes values('2','Orbea mtb','1','2');
+insert into bikes values('2','Orbea btb','1','2');
 insert into bikes values('3', 'Bcm Road','1','3');
 insert into bikes values('4', 'Scott','2','4');
 insert into bikes values('5', 'Trek','1','5');
